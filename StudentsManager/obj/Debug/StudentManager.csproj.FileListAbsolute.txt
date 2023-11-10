@@ -1,0 +1,13 @@
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\obj\Debug\StudentManager.csproj.AssemblyReference.cache
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\obj\Debug\StudentsManager.Properties.Resources.resources
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\obj\Debug\StudentsManager.Views.StudentView.resources
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\bin\Debug\StudentsManager.exe.config
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\bin\Debug\StudentsManager.exe
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\bin\Debug\StudentsManager.pdb
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\obj\Debug\StudentsManager.exe
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\obj\Debug\StudentsManager.pdb
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\bin\Debug\Microsoft.SqlServer.ExpressionTask.dll
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\obj\Debug\StudentManager.csproj.CopyComplete
+D:\NgocAnh\VisualProgramming - Practice\StudentsManager\obj\Debug\StudentsManager.Views.LoginView.resources
